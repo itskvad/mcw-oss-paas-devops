@@ -13,7 +13,7 @@ var userSession = require('./routes/session');
 
 var app = express();
 
-
+// test
 //var databaseUrl = 'mongodb://localhost:27017/best-for-you-organics';
 var databaseUrl = 'mongodb://best-for-you-db-52850:2Lox3nYo06MFu32n72qFwt9F27hCStATgqiSHilqU7wVbEqIcwaX1pkPKQIuZ9fQHw7o1QbSpBDH2SW3BmtWDw==@best-for-you-db-52850.documents.azure.com:10255/best-for-you-organics?ssl=true&replicaSet=globaldb';
 
